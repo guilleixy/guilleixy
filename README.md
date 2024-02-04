@@ -1,6 +1,6 @@
 # 💫 About Me:
 😀Hi!<br>
-If you want to know more about me check [my portfolio](https://gbernal,dev)! <br>
+If you want to know more about me check [my portfolio](https://gbernal.dev)! <br>
 [gbernal.dev](https://gbernal.dev)
 
 ## 🌐 Socials:
