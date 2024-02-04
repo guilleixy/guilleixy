@@ -1,7 +1,7 @@
 # 💫 About Me:
 😀Hi!<br>
 If you want to know more about me check [my portfolio](https://gbernal,dev)! <br>
-[](https://gbernal.dev)
+[gbernal.dev](https://gbernal.dev)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guillermo-bernal-b0515b285/) 
