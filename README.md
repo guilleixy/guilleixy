@@ -1,6 +1,6 @@
 # 💫 About Me:
 😀Hi!<br>
-If you want to know more about me check [my portfolio]([https://gbernal.dev](https://spaceportfolio-mocha.vercel.app/))! <br>
+If you want to know more about me check [my portfolio](https://spaceportfolio-mocha.vercel.app/)! <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-bernal-b0515b285/) 
